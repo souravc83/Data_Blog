@@ -1,0 +1,5 @@
+account={}
+account['APP_KEY']='s48p1YeokUGfXPaFc9QL57gzY'
+account['APP_SECRET'] = 'trzHBd6WNOKls4dMG3Eqxni5jG6Of6ogYnJZZzQiDOA1cGPo51'
+account['ACCESS_TOKEN']='38882864-f8M8ILvpcnaZTiQACZlzN4jZes4e9XRlUCTjOBNPy'
+account['ACCESS_SECRET'] = 'VyESArF4tp3gHYY66V4qIWb7XiHh3dq5NCOExcG5LWRHJ'
